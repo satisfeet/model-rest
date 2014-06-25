@@ -6,14 +6,15 @@
 
   "license": "MIT",
 
-  "version": "0.0.0",
+  "version": "0.0.1",
 
   "description": "REST statics for model library.",
 
   "main": "lib/index.js",
 
   "scripts": [
-    "lib/index.js"
+    "lib/index.js",
+    "lib/statics.js"
   ],
 
   "dependencies": {
