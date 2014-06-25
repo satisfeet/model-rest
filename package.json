@@ -1,0 +1,31 @@
+{
+
+  "name": "satisfeet-model-rest",
+
+  "author": "Bodo Kaiser <i@bodokaiser.io>",
+
+  "license": "MIT",
+
+  "version": "0.0.0",
+
+  "description": "REST statics for model library.",
+
+  "scripts": {
+    "test": "mocha test"
+  },
+
+  "main": "lib",
+
+  "dependencies": {
+    "superagent": "^0.18.0"
+  }
+
+  "repository": {
+    "url": "git://github.com/satisfeet/model-rest.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/satisfeet/model-rest/issues"
+  }
+
+}

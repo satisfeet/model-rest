@@ -1,0 +1,24 @@
+{
+
+  "name": "model-rest",
+
+  "repo": "satisfeet/model-rest",
+
+  "license": "MIT",
+
+  "version": "0.0.0",
+
+  "description": "REST statics for model library.",
+
+  "main": "lib/index.js",
+
+  "scripts": [
+    "lib/index.js"
+  ],
+
+  "dependencies": {
+    "component/collection": "^0.0.2",
+    "visionmedia/superagent": "^0.18.0"
+  }
+
+}

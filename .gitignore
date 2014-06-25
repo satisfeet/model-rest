@@ -1,0 +1,24 @@
+# logs
+*.log
+
+# builds
+srv/javascripts/build.js
+srv/stylesheets/build.css
+srv/stylesheets/bootstrap.css
+
+# temporary
+*.swp
+
+# filesystem
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# packages
+node_modules
+components
